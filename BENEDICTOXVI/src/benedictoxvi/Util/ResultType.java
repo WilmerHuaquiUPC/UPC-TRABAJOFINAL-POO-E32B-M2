@@ -2,11 +2,15 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package benedictoxvi.Entidades;
+package benedictoxvi.Util;
 
 /**
  *
  * @author milton
  */
-public class Instructor extends BasePersona {
+public enum ResultType {
+    None,
+    Ok,
+    Advertencia,
+    Error
 }
