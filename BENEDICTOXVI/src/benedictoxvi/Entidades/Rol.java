@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author milton
+ * @author 
  */
 public class Rol {
     private int codigoRol;
