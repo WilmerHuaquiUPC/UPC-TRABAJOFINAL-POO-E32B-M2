@@ -40,7 +40,7 @@ public ArrayList<GrupoEstudio> BuscarGrupoEstudio(GrupoEstudio pGrupoEstudio) th
         Connection con = new BaseConeccion().getConnection();    
         //Statement stm = con.createStatement();
 
-        return list;
+        return null;
     }
     catch(Exception ex)
     {
